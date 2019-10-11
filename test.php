@@ -1,5 +1,5 @@
 <?php
-    $favcolor = "p";
+    $favcolor = "green";
 
     switch($favcolor){
         case "red":
